@@ -11,4 +11,4 @@ Searching-Text-Effect Animation.
 
 
 ## Contact
-Project Link: [https://github.com/Padman83/Searching-Text-Effect] (https://github.com/Padman83/Searching-Text-Effect)
+Project Link: [https://github.com/Padman83/Searching-Text-Effect]
