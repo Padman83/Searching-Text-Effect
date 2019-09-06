@@ -3,8 +3,10 @@ Searching-Text-Effect Animation.
 
 ![screencapture-padman83-github-io-Searching-Text-Effect-2019-08-06-21_05_55](https://user-images.githubusercontent.com/45048950/63491942-10386200-c4eb-11e9-88e9-5fcf919adabf.png)
 
+### Code Editor
+* [Visual Studio Code] (https://code.visualstudio.com)
 
-### Built With
+### Language + Frameworks
 * [Google Fonts] (https://fonts.google.com)
 * [Bootstrap] (https://getbootstrap.com)
 * [jQuery] (https://https://jquery.com)
